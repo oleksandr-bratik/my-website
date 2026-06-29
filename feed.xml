@@ -3,7 +3,7 @@
     <title>InnerFrame</title>
     <link href="https://innerframe.in.ua/feed.xml" rel="self" />
     <link href="https://innerframe.in.ua" />
-    <updated>2026-06-29T21:21:42+03:00</updated>
+    <updated>2026-06-29T21:24:26+03:00</updated>
     <author>
         <name>Oleksandr</name>
     </author>
@@ -26,11 +26,6 @@
         <content type="html">
             <![CDATA[
                 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://innerframe.in.ua/media/posts/1/Foto-kolo.png" height="590" width="590" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://innerframe.in.ua/media/posts/1/responsive/Foto-kolo-xs.png 640w ,https://innerframe.in.ua/media/posts/1/responsive/Foto-kolo-sm.png 768w ,https://innerframe.in.ua/media/posts/1/responsive/Foto-kolo-md.png 1024w ,https://innerframe.in.ua/media/posts/1/responsive/Foto-kolo-lg.png 1366w ,https://innerframe.in.ua/media/posts/1/responsive/Foto-kolo-xl.png 1600w ,https://innerframe.in.ua/media/posts/1/responsive/Foto-kolo-2xl.png 1920w">
-      
-    </figure>
-
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://innerframe.in.ua/media/posts/1/111.png" height="998" width="3168" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://innerframe.in.ua/media/posts/1/responsive/111-xs.png 640w ,https://innerframe.in.ua/media/posts/1/responsive/111-sm.png 768w ,https://innerframe.in.ua/media/posts/1/responsive/111-md.png 1024w ,https://innerframe.in.ua/media/posts/1/responsive/111-lg.png 1366w ,https://innerframe.in.ua/media/posts/1/responsive/111-xl.png 1600w ,https://innerframe.in.ua/media/posts/1/responsive/111-2xl.png 1920w">
       
