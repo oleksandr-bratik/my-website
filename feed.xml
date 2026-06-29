@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>InnerFrame</title>
-    <link href="https://innerframe.in.ua/feed.xml" rel="self" />
-    <link href="https://innerframe.in.ua" />
-    <updated>2026-06-29T21:44:33+03:00</updated>
+    <link href="file:///C:\Users\Варвара Черненко\Documents\Publii\sites\innerframe\preview/feed.xml" rel="self" />
+    <link href="file:///C:\Users\Варвара Черненко\Documents\Publii\sites\innerframe\preview" />
+    <updated>2026-06-29T22:15:01+03:00</updated>
     <author>
         <name>Oleksandr</name>
     </author>
-    <id>https://innerframe.in.ua</id>
+    <id>file:///C:\Users\Варвара Черненко\Documents\Publii\sites\innerframe\preview</id>
 
     <entry>
         <title>Психологічна стабілізація та самодослідження</title>
         <author>
             <name>Oleksandr</name>
         </author>
-        <link href="https://innerframe.in.ua/psihologichna-stabilizaciya-ta-samodoslidzhennya.html"/>
-        <id>https://innerframe.in.ua/psihologichna-stabilizaciya-ta-samodoslidzhennya.html</id>
+        <link href="file:///C:\Users\Варвара Черненко\Documents\Publii\sites\innerframe\preview/psihologichna-stabilizaciya-ta-samodoslidzhennya.html"/>
+        <id>file:///C:\Users\Варвара Черненко\Documents\Publii\sites\innerframe\preview/psihologichna-stabilizaciya-ta-samodoslidzhennya.html</id>
 
         <updated>2026-06-29T19:56:05+03:00</updated>
             <summary type="html">
@@ -27,7 +27,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://innerframe.in.ua/media/posts/1/111.png" height="998" width="3168" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://innerframe.in.ua/media/posts/1/responsive/111-xs.png 640w ,https://innerframe.in.ua/media/posts/1/responsive/111-sm.png 768w ,https://innerframe.in.ua/media/posts/1/responsive/111-md.png 1024w ,https://innerframe.in.ua/media/posts/1/responsive/111-lg.png 1366w ,https://innerframe.in.ua/media/posts/1/responsive/111-xl.png 1600w ,https://innerframe.in.ua/media/posts/1/responsive/111-2xl.png 1920w">
+      <img loading="lazy" src="file:///C:/Users/Варвара Черненко/Documents/Publii/sites/innerframe/preview/media/posts/1/111.png" height="998" width="3168" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="file:///C:/Users/Варвара%20Черненко/Documents/Publii/sites/innerframe/preview/media/posts/1/responsive/111-xs.png 640w ,file:///C:/Users/Варвара%20Черненко/Documents/Publii/sites/innerframe/preview/media/posts/1/responsive/111-sm.png 768w ,file:///C:/Users/Варвара%20Черненко/Documents/Publii/sites/innerframe/preview/media/posts/1/responsive/111-md.png 1024w ,file:///C:/Users/Варвара%20Черненко/Documents/Publii/sites/innerframe/preview/media/posts/1/responsive/111-lg.png 1366w ,file:///C:/Users/Варвара%20Черненко/Documents/Publii/sites/innerframe/preview/media/posts/1/responsive/111-xl.png 1600w ,file:///C:/Users/Варвара%20Черненко/Documents/Publii/sites/innerframe/preview/media/posts/1/responsive/111-2xl.png 1920w">
       
     </figure>
 
@@ -35,7 +35,7 @@
     Іноді всередині багато напруги, але складно підібрати слова, щоб це пояснити. Цей формат створений саме для таких моментів: коли хочеться не “переробити себе”, а спокійно подивитися на те, що відбувається, і краще почути себе. 
 <br>
 <br>Програма побудована як короткий, структурований шлях із 10 сесій. Ми поступово досліджуємо 5 базових мотивів і 5 малюнків, щоб через прості теми, образи й асоціації краще побачити власні реакції, внутрішні стани та те, що потребує більше уваги.<br>
-<br>Це не глибока терапія і не спроба дістатися “до всього одразу”. Це спокійний і чесний формат для тих, хто хоче трохи більше ясності, трохи більше м’якості до себе й трохи більше внутрішньої опори
+<br>Це не глибока терапія і не спроба дістатися “до всього одразу”. Це спокійний і чесний формат для тих, хто хоче трохи більше ясності, трохи більше м’якості до себе й трохи більше внутрішньої опори.
   </p>
 <div><a href="https://cal.com/oleksandr-bratik-tscb8s/50min" style="background-color: #28a745; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 18px; display: inline-block; transition: background 0.3s;">Обрати час і записатися</a></div>
 
